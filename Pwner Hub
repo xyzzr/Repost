@@ -1,0 +1,3 @@
+		repeat wait() until game:IsLoaded()		-- Thunder Client Script
+
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Repost/main/Pwner%20Hub%20Games"))()
