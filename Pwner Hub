@@ -1,3 +1,20 @@
-		repeat wait() until game:IsLoaded()		-- Thunder Client Script
+--[[
 
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Repost/main/Pwner%20Hub%20Games"))()
+>  Supporter games  <
+
+1. Tower Of hell
+2. Murder mystery 2
+3. Arsenal
+4. Typical Colors 2
+5. Phatom Forces
+6. Weaponry
+7. Kat
+8. Bad Business
+9. Energy Assult
+10. Da hood
+11. Strucid
+
+
+]]
+repeat wait() until game:IsLoaded()		-- Thunder Client Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Repost/main/Pwner%20Hub%20Games"))()
