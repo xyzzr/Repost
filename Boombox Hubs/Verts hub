@@ -1,6 +1,6 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Script-Stuff/main/Encrypt"))("Encrypt")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Script-Stuff/main/Encrypt1"))("Arabic String")
-local Request, GetAsset = nil, nil
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Script-Stuff/main/Encrypt"))("Encrypt") -- lol
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Script-Stuff/main/Encrypt1"))("Arabic String") -- aaaa
+local Request, GetAsset = nil,
 if (syn and syn.request) then
 	Request = syn.request 
 	GetAsset = getsynasset
