@@ -2311,7 +2311,7 @@ if configs.supersecretdevtoggle then
         return "Load's Simple Spy V2.2"
     end,
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Repost/main/Remote%20Spy/V.2.2"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Repost/main/Remote%20Spy/V%202.2.lua"))()
     end)
     newButton("Load SSV3",function()
         return "Load's Simple Spy V3"
