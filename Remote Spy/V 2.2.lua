@@ -233,7 +233,7 @@ ImageLabel.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel.BackgroundTransparency = 1
 ImageLabel.Position = UDim2.new(0, 5, 0, 5)
 ImageLabel.Size = UDim2.new(0, 9, 0, 9)
-ImageLabel.Image = "http://www.roblox.com/asset/?id=5597086202"
+ImageLabel.Image = "http://www.roblox.com/asset/?id=14459457893"
 
 MaximizeButton.Name = "MaximizeButton"
 MaximizeButton.Parent = TopBar
@@ -251,7 +251,7 @@ ImageLabel_2.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_2.BackgroundTransparency = 1
 ImageLabel_2.Position = UDim2.new(0, 5, 0, 5)
 ImageLabel_2.Size = UDim2.new(0, 9, 0, 9)
-ImageLabel_2.Image = "http://www.roblox.com/asset/?id=5597108117"
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=14459459995"
 
 MinimizeButton.Name = "MinimizeButton"
 MinimizeButton.Parent = TopBar
@@ -269,7 +269,7 @@ ImageLabel_3.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageLabel_3.BackgroundTransparency = 1
 ImageLabel_3.Position = UDim2.new(0, 5, 0, 5)
 ImageLabel_3.Size = UDim2.new(0, 9, 0, 9)
-ImageLabel_3.Image = "http://www.roblox.com/asset/?id=5597105827"
+ImageLabel_3.Image = "http://www.roblox.com/asset/?id=14459458825"
 
 ToolTip.Name = "ToolTip"
 ToolTip.Parent = SimpleSpy2
@@ -911,13 +911,13 @@ function mouseEntered()
 			)
 			local inRange, type = isInResizeRange(mouseLocation)
 			if inRange and not sideClosed and not closed then
-				customCursor.Image = type == "B" and "rbxassetid://6065821980"
-					or type == "X" and "rbxassetid://6065821086"
-					or type == "Y" and "rbxassetid://6065821596"
+				customCursor.Image = type == "B" and "rbxassetid://14459417552"
+					or type == "X" and "rbxassetid://14459412259"
+					or type == "Y" and "rbxassetid://14459414515"
 			elseif inRange and not closed and type == "Y" or type == "B" then
-				customCursor.Image = "rbxassetid://6065821596"
-			elseif customCursor.Image ~= "rbxassetid://6065775281" then
-				customCursor.Image = "rbxassetid://6065775281"
+				customCursor.Image = "rbxassetid://14459414515"
+			elseif customCursor.Image ~= "rbxassetid://14459434957" then
+				customCursor.Image = "rbxassetid://14459434957"
 			end
 		else
 			UserInputService.OverrideMouseIconBehavior = Enum.OverrideMouseIconBehavior.None
