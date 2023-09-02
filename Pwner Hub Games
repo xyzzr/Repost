@@ -15,12 +15,6 @@ end
 
 -- PVP Games
 
-if game.PlaceId == 286090429 then -- Arsenal
-     loadstring(game:HttpGet(("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Games/main/Arsenal.lua"),true))()   
-end
-if game.PlaceId == 8412573470 then -- Arsenal Quest
-     loadstring(game:HttpGet(("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Games/main/Arsenal%20Quest"),true))()   
-end
 if game.PlaceId == 328028363 then -- Typical Colors 2
       loadstring(game:HttpGet(("https://raw.githubusercontent.com/bobowawahahahbobobwahahawoaowabobwabo/Games/main/TC2"),true))() 
 end
