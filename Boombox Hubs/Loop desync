@@ -1,4 +1,4 @@
--- https://github.com/VBH32/Cool-Boombox-scripts/blob/main/loop_desyc_1.lua.txt thanks (reposted by me lol)
+
 while wait(1) do
     for _, v in pairs(game.Players:GetPlayers()) do
         for _, v2 in pairs(v.Character:GetChildren()) do
