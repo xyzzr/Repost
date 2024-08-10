@@ -1,5 +1,5 @@
 -- Made to work for executors other than synapse
--- Entirely broken no feature work but ui lol
+-- completely broken no feature work but ui lol
 
 local GetService = game['GetService']
 local UGCValidationService = GetService(game, 'UGCValidationService')
